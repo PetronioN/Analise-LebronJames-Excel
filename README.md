@@ -1,6 +1,8 @@
-# Analise LebronJames Excel
+# Análise Lebron James Excel
 Criação e análise de dataset com valores voltados para a carreira do jogador de basquete LeBron James.
 
+<img align="middle" width="300" height="300" src="https://media.licdn.com/dms/image/C4D22AQHJs_xGW78rSA/feedshare-shrink_800/0/1676214552300?e=1678924800&v=beta&t=9DkK3hwqLcnfdkcUiHlQQQrpFxvTAyTU0EAhYxI9Vls" alt="LeBron James" />
+  
 ## Início
 O dataset foi desenvolvido baseado em estatísticas fornecidas por grandes canais do esporte. Os números especificados são os mesmos fornecidos por esses canais. 
 
@@ -14,19 +16,19 @@ No dataset temos algumas colorações que significam o seguinte:
 - Rosa: O menor valor da coluna;
 - Amarelo: Os 3 maiores valores da coluna (contando com o verde);
 
-Glossário:
-FG: Arremessos certos/tentados;<br />
-FG%: % Arremessos certos;<br />
-3PT: Arremessos de 3 tentados/certos por jogo;<br />
-3%: % de cestas de 3 convertidas;<br />
-FT: Lances livres certos/tentados por jogo;<br />
-FT%: % de lances livres convertidos;<br />
-OR: Rebotes ofensivos por jogo;<br />
-DR: Rebotes defensivos por jogo;<br />
-REB: Rebotes por jogo;<br />
-V: Assistências;<br />
-BLK: Tocos por jogo;<br />
-STL: Roubos de bola por jogo;<br />
-PF: Faltas por jogo;<br />
-TO: Relação de roubos de bola por erros;<br />
-PTS: Pontos;
+### Glossário:
+- FG: Arremessos certos/tentados;<br />
+- FG%: % Arremessos certos;<br />
+- 3PT: Arremessos de 3 tentados/certos por jogo;<br />
+- 3%: % de cestas de 3 convertidas;<br />
+- FT: Lances livres certos/tentados por jogo;<br />
+- FT%: % de lances livres convertidos;<br />
+- OR: Rebotes ofensivos por jogo;<br />
+- DR: Rebotes defensivos por jogo;<br />
+- REB: Rebotes por jogo;<br />
+- V: Assistências;<br />
+- BLK: Tocos por jogo;<br />
+- STL: Roubos de bola por jogo;<br />
+- PF: Faltas por jogo;<br />
+- TO: Relação de roubos de bola por erros;<br />
+- PTS: Pontos;
