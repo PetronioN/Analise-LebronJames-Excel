@@ -15,18 +15,18 @@ No dataset temos algumas colorações que significam o seguinte:
 - Amarelo: Os 3 maiores valores da coluna (contando com o verde);
 
 Glossário:
-FG: Arremessos certos/tentados;
-FG%: % Arremessos certos;
-3PT: Arremessos de 3 tentados/certos por jogo;
-3%: % de cestas de 3 convertidas;
-FT: Lances livres certos/tentados por jogo;
-FT%: % de lances livres convertidos;
-OR: Rebotes ofensivos por jogo;
-DR: Rebotes defensivos por jogo;
-REB: Rebotes por jogo;
-V: Assistências;
-BLK: Tocos por jogo;
-STL: Roubos de bola por jogo; 
-PF: Faltas por jogo;
-TO: Relação de roubos de bola por erros;
+FG: Arremessos certos/tentados;<br />
+FG%: % Arremessos certos;<br />
+3PT: Arremessos de 3 tentados/certos por jogo;<br />
+3%: % de cestas de 3 convertidas;<br />
+FT: Lances livres certos/tentados por jogo;<br />
+FT%: % de lances livres convertidos;<br />
+OR: Rebotes ofensivos por jogo;<br />
+DR: Rebotes defensivos por jogo;<br />
+REB: Rebotes por jogo;<br />
+V: Assistências;<br />
+BLK: Tocos por jogo;<br />
+STL: Roubos de bola por jogo;<br />
+PF: Faltas por jogo;<br />
+TO: Relação de roubos de bola por erros;<br />
 PTS: Pontos;
